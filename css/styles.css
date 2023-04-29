@@ -195,3 +195,18 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.portfolio-nav-btn {
+  width: 69px;
+  height: 48px;
+  background: #404bbf;
+}
+.btn-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
