@@ -78,7 +78,7 @@ button {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 60px;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
@@ -90,6 +90,7 @@ button {
   line-height: 1.5;
   color: #ffffff;
   background: #4d5ae5;
+  letter-spacing: 0.04em;
 }
 .main-btn:hover,
 .main-btn:focus {
