@@ -121,6 +121,7 @@ button {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  line-height: 1.11;
 }
 .section2-text {
   font-family: 'Roboto', sans-serif;
@@ -137,6 +138,9 @@ button {
   left: 0px;
   top: 1548px; */
   background: #f4f4fd;
+}
+.team-list {
+  background-color: #ffffff;
 }
 .team-name {
   font-family: 'Roboto', sans-serif;
