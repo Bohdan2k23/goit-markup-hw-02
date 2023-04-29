@@ -222,3 +222,8 @@ button {
   letter-spacing: 0.04em;
   color: #4d5ae5;
 }
+.portfolio-nav-btn:hover,
+.portfolio-nav-btn:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
