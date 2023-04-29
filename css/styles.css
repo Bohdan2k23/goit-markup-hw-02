@@ -63,22 +63,15 @@ button {
 .cnt-inf {
   font-style: normal;
 }
-.header-contact-mail {
+.header-contact {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.header-contact-tel {
-  font-family: 'Roboto';
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.header-contact-mail:hover,
-.header-contact-mail:focus {
+.header-contact:hover,
+.header-contact:focus {
   color: #404bbf;
 }
 .main-title {
