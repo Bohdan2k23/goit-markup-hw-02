@@ -16,6 +16,11 @@ button {
   top: 0px;
   background: #ffffff;
 }  */
+.body-style {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
 .logo {
   text-decoration: NONE;
   font-family: 'Raleway', sans-serif;
