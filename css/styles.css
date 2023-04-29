@@ -8,6 +8,8 @@ button {
   cursor: pointer;
 }
 :root {
+  --first-color: #ffffff;
+  --second-color: #434455;
 }
 /* .main-header {
   box-sizing: border-box;
@@ -20,8 +22,8 @@ button {
 }  */
 .body-style {
   font-family: 'Roboto', sans-serif;
-  color: #434455;
-  background-color: #ffffff;
+  color: var(--second-color);
+  background-color: var(--first-color);
 }
 .logo {
   text-decoration: NONE;
