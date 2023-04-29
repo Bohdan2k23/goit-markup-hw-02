@@ -58,6 +58,9 @@ button {
 .menu-link:focus {
   color: #404bbf;
 }
+.cnt-inf {
+  font-style: normal;
+}
 .header-contact-mail {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
